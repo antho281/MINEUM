@@ -1133,7 +1133,7 @@ void MapPort()
 // The second name should resolve to a list of seed addresses.
 static const char *strDNSSeed[][2] = {
 {"24.37.43.158", "24.37.43.158"},
-{"45.45.88.18", "45.45.88.18"},
+{"45.45.88.18:31319", "45.45.88.18:31319"},
 {"nodes.muex.io", "nodes.muex.io"}
 
 };
